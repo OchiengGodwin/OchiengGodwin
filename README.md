@@ -1,12 +1,12 @@
 I'M OCHIENG GODWIN
 
-I am an aspiring computer sciencist and a tech enthusiast. Besides, i am passianate web development, programming and freelancing.I love building efficient, scalable and user friendly applications while improving my skills.
+I am an aspiring computer scientist and a tech enthusiast. Besides, i am passianate about web development, programming and freelancing.I love building efficient, scalable and user friendly applications while improving my skills.
 
 ABOUT ME
 1. Currently learning python programming for web development and automation
-2. looking for opportunities software development and virtual assistance
+2. looking for opportunities in software development and virtual assistance
 3. Creating and designing websites using Wordpress and Wix
-4. I enjoy writing and journaling
+4. I enjoy writting and journaling
 
    Goals
    1. build real world projects and sharpen my skills
